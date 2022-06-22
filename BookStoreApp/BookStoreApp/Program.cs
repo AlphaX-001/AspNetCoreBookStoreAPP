@@ -1,7 +1,28 @@
+
+//using Microsoft.AspNetCore.Hosting;
+//using Microsoft.Extensions.Hosting;
+using BookStoreApp;
+
+class Program
+{
+       public static void Main(string[]args)
+       {
+            CreateHostbuilder(args).Build().Run();
+       }
+       public static IHostBuilder CreateHostbuilder(string[] args) =>
+       Host.CreateDefaultBuilder(args).ConfigureWebHostDefaults(webBuilder =>
+       {
+           webBuilder.UseStartup<Startup>();
+       });
+
+   
+}
+
+
 //******** Program by Ani *********//
 
-var builder = WebApplication.CreateBuilder(args);
-var app = builder.Build();
+//var builder = WebApplication.CreateBuilder(args);
+//var app = builder.Build();
 
 //*************************************************************** This is Multiple Middleware Handling ***********************************************************************//
 
@@ -26,16 +47,17 @@ var app = builder.Build();
 //});
 
 
-app.UseRouting();
-app.UseEndpoints(endpoints =>
-{
-    endpoints.MapGet("/", async context =>
-     {
-         await context.Response.WriteAsync("\nHello From MiddleWare");
-     });
-});
+//app.UseRouting();
+//app.UseEndpoints(endpoints =>
+//{
+//   // endpoints.MapGet
+//    endpoints.Map("/", async context =>
+//     {
+//         await context.Response.WriteAsync("\nHello From MiddleWare");
+//     });
+//});
 
-app.Run();
+//app.Run();
 
 //****************************************** Example of Routing Through MiddleWare ***********************************************************//
 
