@@ -1,0 +1,38 @@
+E:\.Net (MVC) Projects\First Console App\First Console App\bin\Debug\net6.0\First Console App.exe
+E:\.Net (MVC) Projects\First Console App\First Console App\bin\Debug\net6.0\First Console App.deps.json
+E:\.Net (MVC) Projects\First Console App\First Console App\bin\Debug\net6.0\First Console App.runtimeconfig.json
+E:\.Net (MVC) Projects\First Console App\First Console App\bin\Debug\net6.0\First Console App.dll
+E:\.Net (MVC) Projects\First Console App\First Console App\bin\Debug\net6.0\First Console App.pdb
+E:\.Net (MVC) Projects\First Console App\First Console App\obj\Debug\net6.0\First Console App.csproj.AssemblyReference.cache
+E:\.Net (MVC) Projects\First Console App\First Console App\obj\Debug\net6.0\First Console App.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net (MVC) Projects\First Console App\First Console App\obj\Debug\net6.0\First Console App.AssemblyInfoInputs.cache
+E:\.Net (MVC) Projects\First Console App\First Console App\obj\Debug\net6.0\First Console App.AssemblyInfo.cs
+E:\.Net (MVC) Projects\First Console App\First Console App\obj\Debug\net6.0\First Console App.csproj.CoreCompileInputs.cache
+E:\.Net (MVC) Projects\First Console App\First Console App\obj\Debug\net6.0\First Console App.dll
+E:\.Net (MVC) Projects\First Console App\First Console App\obj\Debug\net6.0\refint\First Console App.dll
+E:\.Net (MVC) Projects\First Console App\First Console App\obj\Debug\net6.0\First Console App.pdb
+E:\.Net (MVC) Projects\First Console App\First Console App\obj\Debug\net6.0\First Console App.genruntimeconfig.cache
+E:\.Net (MVC) Projects\First Console App\First Console App\obj\Debug\net6.0\ref\First Console App.dll
+E:\.Net (MVC) Projects\First Console App\First Console App\obj\Debug\net6.0\First Console App.MvcApplicationPartsAssemblyInfo.cache
+E:\.Net (MVC) Projects\First Console App\First Console App\obj\Debug\net6.0\staticwebassets.build.json
+E:\.Net (MVC) Projects\First Console App\First Console App\obj\Debug\net6.0\staticwebassets.development.json
+E:\.Net (MVC) Projects\First Console App\First Console App\obj\Debug\net6.0\scopedcss\bundle\First Console App.styles.css
+E:\.Net (MVC) Projects\.GitRepos\Asp.BookStore\First Console App\First Console App\bin\Debug\net6.0\First Console App.exe
+E:\.Net (MVC) Projects\.GitRepos\Asp.BookStore\First Console App\First Console App\bin\Debug\net6.0\First Console App.deps.json
+E:\.Net (MVC) Projects\.GitRepos\Asp.BookStore\First Console App\First Console App\bin\Debug\net6.0\First Console App.runtimeconfig.json
+E:\.Net (MVC) Projects\.GitRepos\Asp.BookStore\First Console App\First Console App\bin\Debug\net6.0\First Console App.dll
+E:\.Net (MVC) Projects\.GitRepos\Asp.BookStore\First Console App\First Console App\bin\Debug\net6.0\First Console App.pdb
+E:\.Net (MVC) Projects\.GitRepos\Asp.BookStore\First Console App\First Console App\obj\Debug\net6.0\First Console App.csproj.AssemblyReference.cache
+E:\.Net (MVC) Projects\.GitRepos\Asp.BookStore\First Console App\First Console App\obj\Debug\net6.0\First Console App.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net (MVC) Projects\.GitRepos\Asp.BookStore\First Console App\First Console App\obj\Debug\net6.0\First Console App.AssemblyInfoInputs.cache
+E:\.Net (MVC) Projects\.GitRepos\Asp.BookStore\First Console App\First Console App\obj\Debug\net6.0\First Console App.AssemblyInfo.cs
+E:\.Net (MVC) Projects\.GitRepos\Asp.BookStore\First Console App\First Console App\obj\Debug\net6.0\First Console App.csproj.CoreCompileInputs.cache
+E:\.Net (MVC) Projects\.GitRepos\Asp.BookStore\First Console App\First Console App\obj\Debug\net6.0\First Console App.MvcApplicationPartsAssemblyInfo.cache
+E:\.Net (MVC) Projects\.GitRepos\Asp.BookStore\First Console App\First Console App\obj\Debug\net6.0\staticwebassets.build.json
+E:\.Net (MVC) Projects\.GitRepos\Asp.BookStore\First Console App\First Console App\obj\Debug\net6.0\staticwebassets.development.json
+E:\.Net (MVC) Projects\.GitRepos\Asp.BookStore\First Console App\First Console App\obj\Debug\net6.0\scopedcss\bundle\First Console App.styles.css
+E:\.Net (MVC) Projects\.GitRepos\Asp.BookStore\First Console App\First Console App\obj\Debug\net6.0\First Console App.dll
+E:\.Net (MVC) Projects\.GitRepos\Asp.BookStore\First Console App\First Console App\obj\Debug\net6.0\refint\First Console App.dll
+E:\.Net (MVC) Projects\.GitRepos\Asp.BookStore\First Console App\First Console App\obj\Debug\net6.0\First Console App.pdb
+E:\.Net (MVC) Projects\.GitRepos\Asp.BookStore\First Console App\First Console App\obj\Debug\net6.0\First Console App.genruntimeconfig.cache
+E:\.Net (MVC) Projects\.GitRepos\Asp.BookStore\First Console App\First Console App\obj\Debug\net6.0\ref\First Console App.dll

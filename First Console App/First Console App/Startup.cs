@@ -1,4 +1,5 @@
-﻿namespace First_Console_App
+﻿
+namespace First_Console_App
 {
     public class Startup
     {
@@ -7,6 +8,21 @@
         }
         public void Configure(IApplicationBuilder App,IWebHostEnvironment env)
         {
+
+            //App.Use(async (context, next) =>
+            // {
+            //     await context.Response.WriteAsync("\nThis is the First Middleware");
+            //     await next();
+            //     await context.Response.WriteAsync("\nThis is the First Middleware Response");
+
+            //});
+            //App.Use(async (context, next) =>
+            //{
+            //    await context.Response.WriteAsync("\nThis is the Second Middleware");
+            //    await next();
+            //    await context.Response.WriteAsync("\nThis is the Second Middleware Response");
+
+            //});
             App.UseRouting();
             App.UseEndpoints(endpoints =>
             {
